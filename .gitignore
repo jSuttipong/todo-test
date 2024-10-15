@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# Logs
+logs/
+*.log
+
+# Nuxt.js
+.nuxt/
+.output/
+dist/
+
+# Environment Variables
+.env
